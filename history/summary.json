@@ -1,22 +1,22 @@
 [
   {
     "name": "Blog",
-    "url": "$Blog",
+    "url": "$SECRET_SITE",
     "icon": "https://blog.hentaixy.xyz/usr/themes/Miracles/favicon.ico",
     "slug": "blog",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 808,
-    "timeDay": 808,
-    "timeWeek": 808,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "status": "up",
+    "uptime": "84.09%",
+    "uptimeDay": "84.09%",
+    "uptimeWeek": "84.09%",
+    "uptimeMonth": "84.09%",
+    "uptimeYear": "84.09%",
+    "time": 785,
+    "timeDay": 785,
+    "timeWeek": 785,
+    "timeMonth": 785,
+    "timeYear": 785,
     "dailyMinutesDown": {
-      "2021-04-30": 0
+      "2021-04-30": 15
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 901,
-    "timeDay": 901,
-    "timeWeek": 901,
-    "timeMonth": 901,
-    "timeYear": 901,
+    "time": 890,
+    "timeDay": 890,
+    "timeWeek": 890,
+    "timeMonth": 890,
+    "timeYear": 890,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 881,
-    "timeDay": 881,
-    "timeWeek": 881,
-    "timeMonth": 881,
-    "timeYear": 881,
+    "time": 796,
+    "timeDay": 796,
+    "timeWeek": 796,
+    "timeMonth": 796,
+    "timeYear": 796,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2827,
-    "timeDay": 2827,
-    "timeWeek": 2827,
-    "timeMonth": 2827,
-    "timeYear": 2827,
+    "time": 2583,
+    "timeDay": 2583,
+    "timeWeek": 2583,
+    "timeMonth": 2583,
+    "timeYear": 2583,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 250,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "time": 223,
+    "timeDay": 223,
+    "timeWeek": 223,
+    "timeMonth": 223,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   }
 ]

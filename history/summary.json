@@ -77,18 +77,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "v2-board",
     "status": "up",
-    "uptime": "94.88%",
-    "uptimeDay": "94.88%",
-    "uptimeWeek": "94.88%",
-    "uptimeMonth": "94.88%",
-    "uptimeYear": "94.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 233,
     "timeDay": 233,
     "timeWeek": 233,
     "timeMonth": 233,
     "timeYear": 233,
-    "dailyMinutesDown": {
-      "2021-04-30": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]

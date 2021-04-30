@@ -4,7 +4,8 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Blog
-    url: https://blog.hentaixy.xyz
+    url: $Blog
+    icon: https://blog.hentaixy.xyz/usr/themes/Miracles/favicon.ico
   - name: GeekColl
     url: https://geekcoll.com
   - name: H5ai-HK

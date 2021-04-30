@@ -7,10 +7,10 @@ sites:
     url: https://blog.hentaixy.xyz
   - name: GeekColl
     url: https://geekcoll.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: H5ai-LU
+    url: https:/file.hentaixy.top
+  - name: V2Board
+    url: https://hentaixy.cloud
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

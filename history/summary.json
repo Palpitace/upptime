@@ -5,19 +5,17 @@
     "icon": "https://blog.hentaixy.xyz/usr/themes/Miracles/favicon.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "84.09%",
-    "uptimeDay": "84.09%",
-    "uptimeWeek": "84.09%",
-    "uptimeMonth": "84.09%",
-    "uptimeYear": "84.09%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 785,
     "timeDay": 785,
     "timeWeek": 785,
     "timeMonth": 785,
     "timeYear": 785,
-    "dailyMinutesDown": {
-      "2021-04-30": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "GeekColl",

@@ -76,7 +76,7 @@
     "url": "$V2BOARD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "v2-board",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +87,8 @@
     "timeWeek": 218,
     "timeMonth": 218,
     "timeYear": 218,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-04": 0
+    }
   }
 ]

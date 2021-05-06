@@ -58,19 +58,19 @@
     "url": "https:/file.hentaixy.top",
     "icon": "https://file.hentaixy.top/_h5ai/public/images/themes/default/folder.svg",
     "slug": "h5ai-lu",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3589,
-    "timeDay": 11969,
-    "timeWeek": 3589,
-    "timeMonth": 3589,
-    "timeYear": 3589,
+    "status": "up",
+    "uptime": "99.64%",
+    "uptimeDay": "97.64%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
+    "time": 4263,
+    "timeDay": 12835,
+    "timeWeek": 4263,
+    "timeMonth": 4263,
+    "timeYear": 4263,
     "dailyMinutesDown": {
-      "2021-05-06": 0
+      "2021-05-06": 34
     }
   },
   {

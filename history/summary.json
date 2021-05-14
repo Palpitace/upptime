@@ -22,9 +22,9 @@
     "url": "https://geekcoll.com",
     "icon": "https://favicons.githubusercontent.com/geekcoll.com",
     "slug": "geek-coll",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1529,
     "timeMonth": 1106,
     "timeYear": 1106,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-14": 0
+    }
   },
   {
     "name": "H5ai-HK",
@@ -59,11 +61,11 @@
     "icon": "https://file.hentaixy.top/_h5ai/public/images/themes/default/folder.svg",
     "slug": "h5ai-lu",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 3565,
     "timeDay": 1382,
     "timeWeek": 1408,

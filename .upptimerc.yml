@@ -9,10 +9,10 @@ sites:
   - name: GeekColl
     url: $GEEKCOLL
   - name: H5ai-HK
-    url: https:/hentaixy.top
+    url: https://hentaixy.top
     icon: https://hentaixy.top/_h5ai/public/images/themes/default/folder.svg
   - name: H5ai-LU
-    url: https:/file.hentaixy.top
+    url: https://file.hentaixy.top
     icon: https://file.hentaixy.top/_h5ai/public/images/themes/default/folder.svg
   - name: V2Board
     url: $V2BOARD

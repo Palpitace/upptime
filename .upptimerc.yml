@@ -6,8 +6,6 @@ sites:
   - name: Blog
     url: $BLOG
     icon: https://blog.hentaixy.xyz/usr/themes/Miracles/favicon.ico
-  - name: GeekColl
-    url: $GEEKCOLL
   - name: H5ai-HK
     url: https://hentaixy.top
     icon: https://hentaixy.top/_h5ai/public/images/themes/default/folder.svg

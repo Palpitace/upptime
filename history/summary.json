@@ -60,9 +60,9 @@
     "url": "https://file.hentaixy.top",
     "icon": "https://file.hentaixy.top/_h5ai/public/images/themes/default/folder.svg",
     "slug": "h5ai-lu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +71,9 @@
     "timeWeek": 1585,
     "timeMonth": 1952,
     "timeYear": 2377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-06": 0
+    }
   },
   {
     "name": "V2Board",
@@ -80,7 +82,7 @@
     "slug": "v2-board",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "95.18%",
+    "uptimeDay": "99.91%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.87%",

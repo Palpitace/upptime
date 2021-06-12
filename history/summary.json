@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
-    "time": 854,
-    "timeDay": 916,
-    "timeWeek": 814,
-    "timeMonth": 870,
-    "timeYear": 854,
+    "time": 852,
+    "timeDay": 727,
+    "timeWeek": 807,
+    "timeMonth": 871,
+    "timeYear": 852,
     "dailyMinutesDown": {
       "2021-05-26": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1337,
-    "timeDay": 1030,
-    "timeWeek": 1020,
-    "timeMonth": 1620,
-    "timeYear": 1337,
+    "time": 1331,
+    "timeDay": 1084,
+    "timeWeek": 1040,
+    "timeMonth": 1599,
+    "timeYear": 1331,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 810,
-    "timeDay": 896,
-    "timeWeek": 776,
-    "timeMonth": 814,
-    "timeYear": 810,
+    "time": 809,
+    "timeDay": 756,
+    "timeWeek": 778,
+    "timeMonth": 818,
+    "timeYear": 809,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.89%",
-    "time": 2470,
-    "timeDay": 1312,
-    "timeWeek": 2959,
-    "timeMonth": 1718,
-    "timeYear": 2470,
+    "time": 2449,
+    "timeDay": 1203,
+    "timeWeek": 2900,
+    "timeMonth": 1712,
+    "timeYear": 2449,
     "dailyMinutesDown": {
       "2021-06-06": 67
     }
@@ -81,16 +81,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "v2-board",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "99.88%",
-    "time": 217,
-    "timeDay": 443,
-    "timeWeek": 217,
-    "timeMonth": 219,
-    "timeYear": 217,
+    "uptimeYear": "99.89%",
+    "time": 216,
+    "timeDay": 150,
+    "timeWeek": 218,
+    "timeMonth": 220,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2021-06-05": 69
     }

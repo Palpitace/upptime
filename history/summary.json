@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 854,
-    "timeDay": 889,
-    "timeWeek": 876,
-    "timeMonth": 868,
-    "timeYear": 854,
+    "time": 851,
+    "timeDay": 676,
+    "timeWeek": 844,
+    "timeMonth": 862,
+    "timeYear": 851,
     "dailyMinutesDown": {
       "2021-05-26": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.92%",
-    "time": 1274,
-    "timeDay": 912,
-    "timeWeek": 1042,
-    "timeMonth": 1086,
-    "timeYear": 1274,
+    "time": 1268,
+    "timeDay": 892,
+    "timeWeek": 1018,
+    "timeMonth": 1079,
+    "timeYear": 1268,
     "dailyMinutesDown": {
       "2021-06-20": 31
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 589,
-    "timeWeek": 788,
-    "timeMonth": 792,
-    "timeYear": 806,
+    "time": 803,
+    "timeDay": 623,
+    "timeWeek": 758,
+    "timeMonth": 788,
+    "timeYear": 803,
     "dailyMinutesDown": {}
   },
   {
@@ -63,16 +63,16 @@
     "icon": "https://file.hentaixy.top/_h5ai/public/images/themes/default/folder.svg",
     "slug": "h5ai-lu",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "99.79%",
-    "time": 2277,
-    "timeDay": 1509,
-    "timeWeek": 1489,
-    "timeMonth": 1709,
-    "timeYear": 2277,
+    "uptimeYear": "99.80%",
+    "time": 2265,
+    "timeDay": 1405,
+    "timeWeek": 1511,
+    "timeMonth": 1710,
+    "timeYear": 2265,
     "dailyMinutesDown": {
       "2021-06-20": 94,
       "2021-06-06": 67
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.91%",
-    "time": 217,
-    "timeDay": 165,
-    "timeWeek": 221,
-    "timeMonth": 221,
-    "timeYear": 217,
+    "time": 216,
+    "timeDay": 143,
+    "timeWeek": 209,
+    "timeMonth": 219,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2021-06-05": 69
     }

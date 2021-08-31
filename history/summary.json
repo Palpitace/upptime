@@ -4,18 +4,19 @@
     "url": "https://blog.hentaixy.xyz",
     "icon": "https://blog.hentaixy.xyz/usr/themes/Miracles/favicon.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 853,
-    "timeDay": 839,
-    "timeWeek": 843,
-    "timeMonth": 844,
-    "timeYear": 853,
+    "time": 852,
+    "timeDay": 765,
+    "timeWeek": 821,
+    "timeMonth": 837,
+    "timeYear": 852,
     "dailyMinutesDown": {
+      "2021-08-31": 0,
       "2021-07-14": 24
     }
   },
@@ -47,18 +48,18 @@
     "icon": "https://hentaixy.top/_h5ai/public/images/themes/default/folder.svg",
     "slug": "h5ai-hk",
     "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "96.15%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.96%",
+    "uptimeDay": "95.30%",
+    "uptimeWeek": "99.33%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.96%",
     "time": 804,
     "timeDay": 735,
     "timeWeek": 761,
     "timeMonth": 804,
     "timeYear": 804,
     "dailyMinutesDown": {
-      "2021-08-31": 55
+      "2021-08-31": 68
     }
   },
   {

@@ -1,4 +1,4 @@
-# [📈 Live Status](https://uptime.hentaixy.xyz): <!--live status--> **🟧 Partial outage**
+# [📈 Live Status](https://upptime.hentaixy.xyz): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Palpitace](https://uptime.hentaixy.xyz), powered by [Upptime](https://github.com/upptime/upptime).
 

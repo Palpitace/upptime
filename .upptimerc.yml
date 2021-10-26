@@ -13,6 +13,7 @@ sites:
   #  icon: https://hentaixy.top/_h5ai/public/images/themes/default/folder.svg
   - name: V2Board
     url: $V2BOARD
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

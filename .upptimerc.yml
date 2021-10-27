@@ -9,7 +9,7 @@ sites:
   - name: GeekColl
     url: $GEEKCOLL
   - name: H5ai-HK
-    url: $H5ai
+    url: $H5AI
     icon: https://release.larsjung.de/_h5ai/public/images/themes/default/folder.svg
   - name: V2Board
     url: $V2BOARD

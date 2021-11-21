@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 834,
-    "timeDay": 806,
-    "timeWeek": 787,
-    "timeMonth": 814,
+    "timeDay": 808,
+    "timeWeek": 788,
+    "timeMonth": 813,
     "timeYear": 834,
     "dailyMinutesDown": {}
   },
@@ -23,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "geek-coll",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 1062,
-    "timeDay": 361,
-    "timeWeek": 401,
-    "timeMonth": 845,
-    "timeYear": 1062,
-    "dailyMinutesDown": {
-      "2021-11-08": 28,
-      "2021-11-06": 48
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1059,
+    "timeDay": 376,
+    "timeWeek": 332,
+    "timeMonth": 831,
+    "timeYear": 1059,
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5ai-HK",
@@ -50,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 815,
-    "timeDay": 885,
-    "timeWeek": 831,
-    "timeMonth": 871,
+    "timeDay": 908,
+    "timeWeek": 839,
+    "timeMonth": 873,
     "timeYear": 815,
     "dailyMinutesDown": {}
   },
@@ -62,18 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "v2-board",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "92.48%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.96%",
-    "time": 245,
-    "timeDay": 585,
-    "timeWeek": 540,
-    "timeMonth": 302,
-    "timeYear": 245,
-    "dailyMinutesDown": {
-      "2021-11-20": 108
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 247,
+    "timeDay": 614,
+    "timeWeek": 592,
+    "timeMonth": 313,
+    "timeYear": 247,
+    "dailyMinutesDown": {}
   }
 ]

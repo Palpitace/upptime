@@ -58,19 +58,19 @@
     "url": "$V2BOARD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "v2-board",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 252,
-    "timeDay": 557,
-    "timeWeek": 628,
-    "timeMonth": 346,
-    "timeYear": 252,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 253,
+    "timeDay": 568,
+    "timeWeek": 622,
+    "timeMonth": 352,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2021-11-24": 0
+      "2021-11-24": 17
     }
   }
 ]

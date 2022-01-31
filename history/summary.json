@@ -25,19 +25,19 @@
     "url": "$GEEKCOLL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "geek-coll",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 894,
-    "timeDay": 292,
-    "timeWeek": 335,
-    "timeMonth": 370,
-    "timeYear": 894,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.98%",
+    "time": 892,
+    "timeDay": 302,
+    "timeWeek": 332,
+    "timeMonth": 368,
+    "timeYear": 892,
     "dailyMinutesDown": {
-      "2022-01-31": 0
+      "2022-01-31": 21
     }
   },
   {

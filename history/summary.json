@@ -25,7 +25,7 @@
     "url": "$GEEKCOLL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "geek-coll",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 335,
     "timeMonth": 370,
     "timeYear": 894,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-31": 0
+    }
   },
   {
     "name": "H5ai-HK",

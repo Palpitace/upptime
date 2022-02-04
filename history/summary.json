@@ -5,16 +5,16 @@
     "icon": "https://blog.hentaixy.xyz/usr/themes/Miracles/favicon.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.81%",
+    "uptime": "99.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.81%",
-    "time": 828,
-    "timeDay": 870,
-    "timeWeek": 789,
-    "timeMonth": 798,
-    "timeYear": 828,
+    "uptimeYear": "99.82%",
+    "time": 827,
+    "timeDay": 644,
+    "timeWeek": 758,
+    "timeMonth": 791,
+    "timeYear": 827,
     "dailyMinutesDown": {
       "2022-01-02": 217,
       "2022-01-01": 526
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 886,
-    "timeDay": 359,
-    "timeWeek": 375,
-    "timeMonth": 371,
-    "timeYear": 886,
+    "time": 883,
+    "timeDay": 217,
+    "timeWeek": 347,
+    "timeMonth": 365,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2022-01-31": 21
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 822,
-    "timeDay": 874,
-    "timeWeek": 829,
-    "timeMonth": 834,
+    "timeDay": 681,
+    "timeWeek": 801,
+    "timeMonth": 826,
     "timeYear": 822,
     "dailyMinutesDown": {
       "2021-12-14": 22
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 271,
-    "timeWeek": 218,
-    "timeMonth": 210,
+    "timeDay": 146,
+    "timeWeek": 204,
+    "timeMonth": 207,
     "timeYear": 248,
     "dailyMinutesDown": {}
   }

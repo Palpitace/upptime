@@ -29,12 +29,12 @@
     "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.46%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 828,
     "timeDay": 464,
     "timeWeek": 392,
-    "timeMonth": 394,
+    "timeMonth": 395,
     "timeYear": 828,
     "dailyMinutesDown": {
       "2022-02-12": 236,
@@ -66,9 +66,9 @@
     "url": "$V2BOARD",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "v2-board",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +77,8 @@
     "timeWeek": 187,
     "timeMonth": 205,
     "timeYear": 243,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-12": 0
+    }
   }
 ]

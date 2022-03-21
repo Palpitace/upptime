@@ -1,24 +1,21 @@
 [
   {
-    "name": "Blog",
+    "name": "Kiyoi's Blog",
     "url": "https://blog.kiyoi.xyz",
     "icon": "https://blog.kiyoi.xyz/favicon.ico",
-    "slug": "blog",
+    "slug": "kiyoi-s-blog",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
-    "time": 813,
-    "timeDay": 492,
-    "timeWeek": 625,
-    "timeMonth": 686,
-    "timeYear": 813,
-    "dailyMinutesDown": {
-      "2022-01-02": 217,
-      "2022-01-01": 526
-    }
+    "uptimeYear": "100.00%",
+    "time": 310,
+    "timeDay": 310,
+    "timeWeek": 310,
+    "timeMonth": 310,
+    "timeYear": 310,
+    "dailyMinutesDown": {}
   },
   {
     "name": "GeekColl",
@@ -26,20 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "geek-coll",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.88%",
-    "time": 814,
-    "timeDay": 305,
-    "timeWeek": 361,
-    "timeMonth": 378,
-    "timeYear": 814,
-    "dailyMinutesDown": {
-      "2022-02-12": 236,
-      "2022-01-31": 21
-    }
+    "uptimeYear": "100.00%",
+    "time": 812,
+    "timeDay": 297,
+    "timeWeek": 353,
+    "timeMonth": 374,
+    "timeYear": 812,
+    "dailyMinutesDown": {}
   },
   {
     "name": "H5ai-HK",
@@ -47,19 +41,17 @@
     "icon": "https://release.larsjung.de/_h5ai/public/images/themes/default/folder.svg",
     "slug": "h5ai-hk",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 829,
-    "timeDay": 792,
-    "timeWeek": 843,
-    "timeMonth": 858,
+    "timeDay": 781,
+    "timeWeek": 834,
+    "timeMonth": 855,
     "timeYear": 829,
-    "dailyMinutesDown": {
-      "2021-12-14": 22
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "V2Board",
@@ -73,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 244,
-    "timeDay": 157,
-    "timeWeek": 189,
-    "timeMonth": 228,
+    "timeDay": 162,
+    "timeWeek": 188,
+    "timeMonth": 226,
     "timeYear": 244,
     "dailyMinutesDown": {}
   }

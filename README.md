@@ -1,6 +1,6 @@
-# [📈 Live Status](https://upptime.hentaixy.xyz): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://upptime.kiyoi.xyz): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Palpitace](https://upptime.hentaixy.xyz), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Palpitace](https://upptime.kiyoi.xyz), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/Palpitace/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/Palpitace/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/Palpitace/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/Palpitace/upptime/actions?query=workflow%3A%22Response+Time+CI%22)

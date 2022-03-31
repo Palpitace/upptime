@@ -6,13 +6,13 @@ sites:
   - name: Kiyoi's Blog
     url: https://blog.kiyoi.xyz
     icon: https://blog.kiyoi.xyz/favicon.ico
-  - name: GeekColl
-    url: $GEEKCOLL
-  - name: H5ai-HK
-    url: $H5AI
-    icon: https://release.larsjung.de/_h5ai/public/images/themes/default/folder.svg
-  - name: V2Board
-    url: $V2BOARD
+ # - name: GeekColl
+ #   url: $GEEKCOLL
+ # - name: H5ai-HK
+ #   url: $H5AI
+ #   icon: https://release.larsjung.de/_h5ai/public/images/themes/default/folder.svg
+ # - name: V2Board
+ #   url: $V2BOARD
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

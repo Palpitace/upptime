@@ -4,17 +4,19 @@
     "url": "https://blog.kiyoi.xyz",
     "icon": "https://blog.kiyoi.xyz/favicon.ico",
     "slug": "kiyoi-s-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 279,
-    "timeWeek": 239,
-    "timeMonth": 153,
-    "timeYear": 160,
-    "dailyMinutesDown": {}
+    "timeDay": 199,
+    "timeWeek": 224,
+    "timeMonth": 152,
+    "timeYear": 159,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   }
 ]

@@ -6,17 +6,15 @@
     "slug": "kiyoi-s-blog",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 175,
-    "timeWeek": 213,
-    "timeMonth": 152,
+    "time": 165,
+    "timeDay": 161,
+    "timeWeek": 226,
+    "timeMonth": 154,
     "timeYear": 159,
-    "dailyMinutesDown": {
-      "2023-10-30": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
